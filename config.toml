@@ -8,11 +8,11 @@ paginate = 5
   themeColor = "orange"
   showMenuItems = 2
   fullWidthTheme = false
-  centerTheme = false
+  centerTheme = true
 
 [languages]
   [languages.en]
-    title = "Terminal"
+    title = "Avunit"
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
@@ -21,15 +21,15 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Avunit"
       logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "main"
+        name = "main site"
+        url = "https://avunit.tk"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "git"
+        name = "github"
+        url = "https://github.com/avunit1/blog"
