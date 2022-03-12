@@ -1,6 +1,6 @@
-baseurl = "https://example.com/"
+baseurl = "/"
 languageCode = "en-us"
-theme = "terminal"
+theme = "hugo-theme-terminal"
 paginate = 5
 
 [params]
