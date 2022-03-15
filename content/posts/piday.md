@@ -11,5 +11,6 @@ First of all, what is Pi? Pi, which is written as the Greek letter for p, or π 
 
 Pi Day is an annual opportunity for math enthusiasts to recite the infinite digits of Pi, talk to their friends about math, and eat pie. Also, Pi has been calculated to over 50 trillion digits beyond its decimal point. As an irrational and transcendental number, it will continue infinitely without repetition or pattern. While only a handful of digits are needed for typical calculations, pi’s infinite nature makes it a fun challenge to memorize, and to computationally calculate more and more digits.
 
+
 - This was a pretty rushed post, I'm sorry! I have been busy and GitHub has caused me some issues! Happy late Pi day everyone!
 - Information taken and modified from https://piday.org/
