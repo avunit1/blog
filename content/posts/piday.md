@@ -5,16 +5,10 @@ author = "Avunit"
 description = "What is Pi Day? Why do we celebrate it? Well, today you're going to find out!"
 +++
 
-I have wanted a website for a LONG time and i finally got over my laziness and figured it out. I can say that this project in itself taught me more about website development and it took a while. If you can consider 3 days "a while", then that's great! Here's what you are going to need:
+First of all, what is Pi? Pi, which is written as the Greek letter for p, or π is the ratio of the circumference of any circle to the diameter of that circle. Regardless of the circle's size, this ratio will always equal pi. In decimal form, the value of pi is approximately 3.14. But pi is an irrational number, meaning that its decimal form neither ends (like 1/4 = 0.25) nor becomes repetitive (like 1/6 = 0.166666...). (To only 18 decimal places, pi is 3.141592653589793238.)
 
-> GitHub, a domain (you can get one from free from freenom.com, just like I did), a Cloudflare account, some free time, and Jonte's help <3
+> Pi Day is celebrated on March 14th (3/14) around the world!
 
-Building websites is pretty complicated. It took me a while to get it running. I've had many issues with Cloudflare and GitHub not registering my domains. What I've learned from this project is:
+Pi Day is an annual opportunity for math enthusiasts to recite the infinite digits of Pi, talk to their friends about math, and eat pie. Also, Pi has been calculated to over 50 trillion digits beyond its decimal point. As an irrational and transcendental number, it will continue infinitely without repetition or pattern. While only a handful of digits are needed for typical calculations, pi’s infinite nature makes it a fun challenge to memorize, and to computationally calculate more and more digits.
 
-- HTML and CSS.
-- A lot about GitHub. A LOT. If you go to my GitHub, you can see many failed push attempts and empty repo's, but at least i learned by going trough my mistakes!
-- Handling and working with Linux's terminal.
-- How a website works in general.
-- How to register a domain, how to buy one, and a lot more.
-
-So you see, building a website learned me some stuff. And if you want to build your own and learn, go ahead! Dn't mind the days lost trying to figure it out, in the end I promise you everything's going to work out in your favour <3
+- This was a pretty rushed post, I'm sorry! I have been busy and GitHub has caused me some issues! Happy late Pi day everyone!
