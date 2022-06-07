@@ -1,5 +1,5 @@
 +++
-title = "Contact."
+title = "Contact"
 date = "2022-06-07"
 author = "Avunit"
 description = "Where you can find and contact me."
