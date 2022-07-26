@@ -1,5 +1,5 @@
 +++
-title = "There's a thing named linux. USE IT!"
+title = "There's a thing named Linux. USE IT!"
 date = "2022-07-26"
 author = "Avunit"
 description = "This post explains why you shouldn't be Apple or Microsoft's sheep."
@@ -7,13 +7,9 @@ description = "This post explains why you shouldn't be Apple or Microsoft's shee
 
 Alright, you probably heard about Linux before, but what is it?
 
-Linux (LEE-nuuks) is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged in a Linux distribution. The most popular linux distributions as of the writing of this post are: Ubuntu (ew), Manjaro, Fedora, Arch, Gentoo, etc. 
+Linux (LEE-nuuks) is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Linux is typically packaged in a Linux distribution. The most popular linux distributions as of the writing of this post are: Ubuntu (ew), Manjaro, Fedora, Arch, Gentoo, etc. Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project.
 
-Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project.
-
-Now, that was a lot of words. To make it easier to understand, Linux is an operating software just like Windows and Mac OS. Linux can be based on multiple distros, such as Arch, Debian, Fedora, etc. 
-
-Linux is also not that hard to learn. Yes, using Arch linux might be harder but you can use Manjaro at the begining or Ubuntu (if you are a masochist).
+Now, that was a lot of words. To make it easier to understand, Linux is an operating software just like Windows and Mac OS. Linux can be based on multiple distros, such as Arch, Debian, Fedora, etc. Linux is also not that hard to learn. Yes, using Arch linux might be harder but you can use Manjaro at the begining or Ubuntu (if you are a masochist).
 
 > Linux is a terminal based OS. The terminal can use multiple "shells", such as bash, zsh, fish, etc. To learn more, visit this link: https://en.wikipedia.org/wiki/Unix_shell
 
@@ -28,7 +24,7 @@ Here's what you're going to need.
 
 Let's say you decided on a distro. Good job! Download the ISO for it, pretty straight forward. Next, download balena etcher from here: https://www.balena.io/etcher/ and install it. Now, open balena etcher, select the downloaded ISO, select your USB, and hit flash. This process might take from 1 minute to 30 minutes, depending on the transfer speed of your USB Drive.
 
-Now, get ready to say bye bye to your current OS. Make sure you back up all important data before proceeding. Now, turn of your computer. When booting it back up again, enter BIOS or boot menu. Key combinations should be: 
+Now, get ready to say bye bye to your current OS. Make sure you back up all important data before proceeding. Now, turn off your computer. When booting it back up again, enter BIOS or boot menu. Key combinations should be: 
 
 > Acer: F2 or DEL
 > ASUS: F2 for all PCs, F2 or DEL for motherboards
@@ -58,6 +54,6 @@ Great job! Now you got Linux fired up on your system. Now, you might notice that
 
 > https://www.reddit.com/r/unixporn/comments/w6q3cq/bspwm_my_first_rice_i_love_archcraft/
 
-You can obviously make yours look way diferent, and that's what i love. Look up tutorials, wiki's, just have fun learning. And don't forget, happy Linuxing!
+You can obviously make yours look way diferent, and that's what i love about it. Look up tutorials, wiki's, just have fun learning. And don't forget, happy Linuxing!
 
 (Info taken from Wikipedia and HP)
