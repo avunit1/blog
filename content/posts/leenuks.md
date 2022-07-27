@@ -7,7 +7,7 @@ description = "This post explains why you should consider breaking out of Micros
 
 Alright, you probably heard about Linux before, but what is it?
 
-Linux (LEE-nuuks) is a family of open-source Unix-like operating systems based on the Linux kernel. Linux is typically packaged in a Linux distribution. The most popular linux distributions are, based on data from Linux Enthusiasts Group: Arch Linux, Ubuntu (which some people consider inferior to the alternatives), Manjaro, Debian, Pop! OS, Elementary OS, and Gentoo.
+Linux (LEE-nuuks) is a family of open-source Unix-like operating systems based on the Linux kernel. Linux is typically packaged in a Linux distribution. The most popular linux distributions are, based on data from [Linux Enthusiasts Group](https://discord.gg/sc9dv8P): Arch Linux, Ubuntu (which some people consider inferior to the alternatives), Manjaro, Debian, Pop!\_OS, Elementary OS, and Gentoo.
 
 Now, that was a lot of words. To make it easier to understand, Linux is "an operating software" just like Windows and Mac OS. These "distros" (short for distributions) are sometimes based on other, parent distros, such as Arch, Debian, and Fedora. Most people find the beginner Linux distros intuitive, while there are more customizable and complex offerings for the experienced users.
 
