@@ -12,7 +12,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Avunit"
+    title = "ASB"
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
@@ -21,7 +21,7 @@ paginate = 5
     readOtherPosts = "Read other fabulous posts"
 
     [languages.en.params.logo]
-      logoText = "Avunit's Dazzling Blog"
+      logoText = "Avunit's Staggering Blog"
       logoHomeLink = "/"
 
     [languages.en.menu]
