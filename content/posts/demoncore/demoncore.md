@@ -3,7 +3,7 @@ author = "Avunit"
 title = "The Demon Core Incident"
 date = "2022-08-07"
 description = "Find out about the demon core incident here!"
-cover="duck.png"
+cover="duck.webp"
 +++
 
 # What even is the Demon Core?
