@@ -3,7 +3,7 @@ title = "Demon Core"
 date = "2022-08-07"
 author = "Avunit"
 description = "funny nuclear incidents ahead"
-cover = "./duck.webp"
+cover = "/posts/duck.webp"
 +++
 
 # What even is the Demon Core?
