@@ -1,9 +1,9 @@
 +++
-author = "Avunit"
-title = "The Demon Core Incident"
+title = "Demon Core"
 date = "2022-08-07"
-description = "Find out about the demon core incident here!"
-cover="duck.webp"
+author = "Avunit"
+description = "funny nuclear incidents ahead"
+cover = "duck.webp"
 +++
 
 # What even is the Demon Core?
